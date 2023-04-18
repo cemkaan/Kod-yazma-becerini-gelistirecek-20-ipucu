@@ -15,7 +15,8 @@ graph LR;
     sari(Duzenle)-->t;
 ```
 Refactor: mevcut bir kodu yeniden yapılandırmak, dış davranışını değiştirmeden iç yapısını değiştirmek ve geliştirmek için kullanılan bir tekniktir. ChatGPT ye `refactor: ` komutu verip yeni satıra kodu yapıştırmanız yeter.
-#Code  
+  
+
 **Kodlama becerilerinizi değiştirecek 40 ipucu**
 1.  Kodu alın ve büyük kod parçalarını küçük fonksiyonlara ayırın.
 2.  İşe ayırdığınız zamana kadar sorunu çözmediyseniz. Bilgisayarı kapatın ve ertesi güne bırakın. Artık sorun hakkında düşünmeyin.
@@ -30,7 +31,7 @@ Refactor: mevcut bir kodu yeniden yapılandırmak, dış davranışını değiş
 11.  Eğer ChatGPT'ye bir kod yazdırdıysanız o kodu iyice açıklatın. Anlamadığınız hiç birşeyi programınıza koymayın.
 12.  If you want to learn something, practice. Make examples and make them work because read about something is not enough.
 13.  Diğer kişilerin kodlarını inceleyin ve başkalarının zaman zaman kodunuzu incelemesine izin verin. Programlar okuma ve kod incelemeleri iyi bir fikirdir.
-14.  Tekerleği Yeniden İcat Etme. Tüm dillerde yazılmış bir sürü kütüphane var: [python pypi](https://pypi.org/) [JavaScript npm](https://www.npmjs.com/) [Dart pub](https://pub.dev/)
+14.  Tekerleği Yeniden İcat Etme. Tüm dillerde yazılmış bir sürü kütüphane var: [python pypi](https://pypi.org/) / [JavaScript npm](https://www.npmjs.com/) / [Dart pub](https://pub.dev/)
 15.  Kodumuz en iyi dokümantasyondur. Açıklama yapman gereken bir kodu anlamamışsındır. 
 16.  IDE kullanmayı öğrenin: bir çok refactor işlemi IDE tarafından tek tıklamayla yapılır. Tabline, github copilot yada ChatGPT eklentilerini ve `why code isn't working`.  `Ask to explain code`. özelliklerini kullanın.
 17.  Kodunuzun gelecekte kendiniz veya başkaları tarafından okunması gerekecektir, bu nedenle kodu okuyucuyu göz önünde bulundurarak, en zeki kişi olmaya çalışmadan yazın. Bir hikaye okuyormuş gibi okunmasını sağlayın.
