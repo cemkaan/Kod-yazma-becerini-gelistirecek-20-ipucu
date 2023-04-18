@@ -1,5 +1,5 @@
 # Kod-yazma-becerini-gelistirecek-20-ipucu
-Programlama yeteneğini iyileştirmek istiyorsan BUNLARI YAP
+Programlama yeteneğini iyileştirmek istiyorsan **BUNLARI YAP**
 
 ## Hata > Çalışan Kod > Yeniden Düzenleme
 
@@ -30,10 +30,10 @@ Refactor: mevcut bir kodu yeniden yapılandırmak, dış davranışını değiş
 11.  Eğer ChatGPT'ye bir kod yazdırdıysanız o kodu iyice açıklatın. Anlamadığınız hiç birşeyi programınıza koymayın.
 12.  If you want to learn something, practice. Make examples and make them work because read about something is not enough.
 13.  Diğer kişilerin kodlarını inceleyin ve başkalarının zaman zaman kodunuzu incelemesine izin verin. Programlar okuma ve kod incelemeleri iyi bir fikirdir.
-14.  Tekerleği Yeniden İcat Etmeyin.
+14.  Tekerleği Yeniden İcat Etme. Tüm dillerde yazılmış bir sürü kütüphane var: [python pypi](https://pypi.org/) [JavaScript npm](https://www.npmjs.com/) [Dart pub](https://pub.dev/)
 15.  Kodumuz en iyi dokümantasyondur. Açıklama yapman gereken bir kodu anlamamışsındır. 
 16.  IDE kullanmayı öğrenin: bir çok refactor işlemi IDE tarafından tek tıklamayla yapılır. Tabline, github copilot yada ChatGPT eklentilerini ve `why code isn't working`.  `Ask to explain code`. özelliklerini kullanın.
 17.  Kodunuzun gelecekte kendiniz veya başkaları tarafından okunması gerekecektir, bu nedenle kodu okuyucuyu göz önünde bulundurarak, en zeki kişi olmaya çalışmadan yazın. Bir hikaye okuyormuş gibi okunmasını sağlayın.
 18. Hata mesajları sizin en iyi dostlarınızdır! Bir sorunu bulmanın en iyi yolu hata kodunu kopyalayıp ChatGPT ekranına yapıştırmaktır. ChatGPT hangi dil hangi kütüphane olduğunu otomatik olarak anlayacaktır.
-19.  Asla pes etmeyin, sonunda, bir şekilde ya da başka bir şekilde çözeceksiniz. Kötü günler var ama geçecekler. Bazı günler kendinizi berbat bir programcı olarak göreceksiniz, ama bazı günlerse sizden daha zeki kimse olmayacak.
-20.  Dinlenin, Dinlenin ve Dinlenin. Bir sorunu çözmenin en iyi yolu, dinlenmiş bir zihne sahip olmaktır.
+19.  Asla pes etme, sonunda, bir şekilde ya da başka bir şekilde çözeceksiniz. Kötü günler var ama geçecekler. Bazı günler kendinizi berbat bir programcı olarak göreceksiniz, ama bazı günlerse sizden daha zeki kimse olmayacak.
+20.  Dinlen, Dinlen , Dinlen. Bir sorunu çözmenin en iyi yolu, dinlenmiş bir zihne sahip olmaktır.
