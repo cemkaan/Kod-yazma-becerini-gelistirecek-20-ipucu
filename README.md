@@ -1,8 +1,19 @@
 # Kod-yazma-becerini-gelistirecek-20-ipucu
 Programlama yeteneğini iyileştirmek istiyorsan BUNLARI YAP
 
-## Refactor -Test-Refactor
+## Hata > Çalışan Kod > Yeniden Düzenleme
 
+
+```mermaid
+graph LR;
+    t("Hata yapan bir Test yaz") --> red(Hata);
+    style red fill:#fab,stroke:#333,stroke-width:4px
+    red(Hata)-->green("Çalışan Kod Yaz");
+    style green fill:#afb,stroke:#333,stroke-width:4px
+    green-->sari("Düzenle");
+    style sari fill:yellow,stroke:#333,stroke-width:4px
+    sari(Duzenle)-->t;
+```
 Refactor: mevcut bir kodu yeniden yapılandırmak, dış davranışını değiştirmeden iç yapısını değiştirmek ve geliştirmek için kullanılan bir tekniktir. ChatGPT ye `refactor: ` komutu verip yeni satıra kodu yapıştırmanız yeter.
 #Code  
 **Kodlama becerilerinizi değiştirecek 40 ipucu**
